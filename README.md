@@ -1,4 +1,4 @@
-# Jeystore -> Free APK Store For Android
+# Jeystore -> APK Store For Android
 [Created by Jeyers Development](https://jd.pnc3.net)
 
 Jeystore is a simple way to access free APKs using a simple client (which is literally a simple HTML file) to download APK files from a GitHub repository, this makes it very easy to add new apps to Jeystore. 
