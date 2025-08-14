@@ -3,5 +3,10 @@
     "Jacob Meyers",
     "Jeyers Development"
   ],
-  "apk_name": "mnShooter"
+  "apk_name": "mnShooter",
+  "description": "Maneuver Shooter is a cool game!",
+  "tags": [
+    "Game",
+    "Shooter Game"
+  ]
 }
