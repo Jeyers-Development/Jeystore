@@ -47,9 +47,8 @@ DO NOT add a .apk at the end or it will not be accepted and it won't download.
  Add your .apk file in the same directory as the `config.json` file AND with the same name as the "apk_name" in your `config.json` file.
   ### Add your Icon
 Add your `icon.png` file in the same directory as before.
-  ### Send a Push Request
-Send a Push Request using the label -> `app_create`
-Make sure you say you are adding the app in the title too, it helps!
+  ### Send a Pull Request (use correct format)
+Send a Pull Request using the format -> 'Adding \<name-of-app\>'
 
 
 
@@ -66,9 +65,8 @@ To edit your apps you must fork the repo and use the same account you set as "re
  - Your app must not attempt to scam or lead people to dangerous websites.
  - LIST IS NOT LIMITING, if we see your app not fitting for Jeystore we will either not accept it or remove it from the store.
 
-  ### Lastly, Send a Push Request (use correct label)
-Send a Push Request using the label -> `app_edit`
-Make sure you say you are adding the app in the title too, it helps!
+  ### Lastly, Send a Pull Request (use correct format)
+Send a Pull Request using the format -> 'Edit to \<name-of-app\>'
 
 ## AI Declaration
 *Artificial Intelligence* aided in creation of the client and the client only.
