@@ -25,7 +25,7 @@ To add your own apps create a fork of Jeystore and create a file called 'apps/\<
         "Creator2",
         "Creator3"
       ],
-      "repo_edit_perm": "your_github_username"
+      "repo_edit_perm": "your_github_username",
       "apk_name": "coolApp",
       "version": "1.0.0",
       "description": "This app is very cool and is a fun tool!",
