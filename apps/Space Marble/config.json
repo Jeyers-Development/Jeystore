@@ -1,0 +1,12 @@
+{
+  "authors": [
+    "Jacob Meyers"
+  ],
+  "repo_edit_perm": "Jeyers-Development",
+  "apk_name": "spaceMarble",
+  "version": "1.0.0",
+  "description": "Little pico8 movement velocity project.",
+  "tags": [
+    "Game"
+  ]
+}
