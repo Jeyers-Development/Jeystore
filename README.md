@@ -1,1 +1,3 @@
-[WE HAVE MOVED TO GITLAB!]([https://jd.pnc3.net](https://gitlab.com/jeyersdev/Jeystore))
+## We have migrated to GitLab!
+This project is still active, but it has moved to GitLab to make it easier to work on...
+### [Click Here to View GitLab Repo](https://gitlab.com/jeyersdev/Jeystore)
